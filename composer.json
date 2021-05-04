@@ -5,7 +5,7 @@
     "extra": {
         "apiato": {
             "container": {
-                "name": "SettingsV222"
+                "name": "Settings"
             }
         }
     },
