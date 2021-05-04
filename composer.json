@@ -1,0 +1,12 @@
+{
+    "name": "quannp1996/settings",
+    "description": "An Apiato container which helps store and retrieving key values",
+    "license": "MIT",
+    "extra": {
+        "apiato": {
+            "container": {
+                "name": "SettingsV222"
+            }
+        }
+    }
+}
