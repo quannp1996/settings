@@ -8,5 +8,6 @@
                 "name": "SettingsV222"
             }
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
